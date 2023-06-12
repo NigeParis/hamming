@@ -21,3 +21,4 @@ Implementation notes
 The Hamming distance is only defined for sequences of equal length, so an attempt to calculate it between sequences of different lengths should not work.
 
 
+<img width="502" alt="Capture d’écran 2023-06-12 à 16 54 13" src="https://github.com/NigeParis/hamming/assets/128382762/3fb6c16c-d564-4051-80fe-ed6a4df71128">
