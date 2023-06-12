@@ -7,11 +7,11 @@ When cells divide, their DNA replicates too. Sometimes during this process mista
 
 We read DNA using the letters C,A,G and T. Two strands might look like this:
 
-  GAGCCTACTAACGGGAT
+    GAGCCTACTAACGGGAT
 
-  CATCGTAATGACGGCCT
+    CATCGTAATGACGGCCT
 
-  ^ ^ ^  ^ ^    ^^
+    ^ ^ ^  ^ ^    ^^
 
 They have 7 differences, and therefore the Hamming Distance is 7.
 
