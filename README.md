@@ -5,6 +5,7 @@
 *   PROTOTYPE DE FUNCTION : int compute ( const char *str1, const char *str2)
 *   ARGS : takes two pointers to strings
 *   RETURN : ERROR -1 when string not of equal length, or returns the number of caracters different in the string
+*   
 */
 
 Your body is made up of cells that contain DNA. Those cells regularly wear out and need replacing, which they achieve by dividing into daughter cells. In fact, the average human body experiences about 10 quadrillion cell divisions in a lifetime!
